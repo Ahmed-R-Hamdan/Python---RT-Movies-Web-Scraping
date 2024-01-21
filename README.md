@@ -1,7 +1,7 @@
 # Python---Web-Scraping
 Scraping Details of "300 Essential Movies To Watch" made by Rottentomatoes web site
 
-https://github.com/Ahmed-R-Hamdan/Python---Web-Scraping/blob/main/image/RT_300EssentialMovies_700X250.jpg
+![alt text](https://github.com/Ahmed-R-Hamdan/Python---Web-Scraping/blob/main/image/RT_300EssentialMovies_700X250.jpg)
 
 Using Python and Beautiful Soup we will practice scraping of static web site
 
